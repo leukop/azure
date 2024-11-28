@@ -1,0 +1,1 @@
+/home/o365/> Get-AzProviderFeature -FeatureName "EncryptionAtHost" -ProviderNamespace "Microsoft.Compute"
